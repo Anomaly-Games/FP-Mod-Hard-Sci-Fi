@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StarshipSetup> 
+
+  <!-- Max Amount of Starships in the Galaxy by maximum Tech Level  -->
+  <SHIP_MaxAmountByTechLevel_1>5</SHIP_MaxAmountByTechLevel_1>
+  <SHIP_MaxAmountByTechLevel_2>5</SHIP_MaxAmountByTechLevel_2>
+  <SHIP_MaxAmountByTechLevel_3>5</SHIP_MaxAmountByTechLevel_3>
+  <SHIP_MaxAmountByTechLevel_4>5</SHIP_MaxAmountByTechLevel_4>
+  <SHIP_MaxAmountByTechLevel_5>5</SHIP_MaxAmountByTechLevel_5>
+  <SHIP_MaxAmountByTechLevel_6>5</SHIP_MaxAmountByTechLevel_6>
+  <SHIP_MaxAmountByTechLevel_7>5</SHIP_MaxAmountByTechLevel_7>
+  <SHIP_MaxAmountByTechLevel_8>5</SHIP_MaxAmountByTechLevel_8>
+  <SHIP_MaxAmountByTechLevel_9>5</SHIP_MaxAmountByTechLevel_9>
+  <SHIP_MaxAmountByTechLevel_10>6</SHIP_MaxAmountByTechLevel_10>
+  <SHIP_MaxAmountByTechLevel_11>6</SHIP_MaxAmountByTechLevel_11>
+  <SHIP_MaxAmountByTechLevel_12>7</SHIP_MaxAmountByTechLevel_12>
+  <SHIP_MaxAmountByTechLevel_13>7</SHIP_MaxAmountByTechLevel_13>
+  <SHIP_MaxAmountByTechLevel_14>7</SHIP_MaxAmountByTechLevel_14>
+  <SHIP_MaxAmountByTechLevel_15>8</SHIP_MaxAmountByTechLevel_15>
+
+  <!-- Max Amount of Passive Starships ( Currently only Synthetics ) -->
+  <SHIP_MaxAmountOfPassiveStarShips>8</SHIP_MaxAmountOfPassiveStarShips>
+</StarshipSetup>
